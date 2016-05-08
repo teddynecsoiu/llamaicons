@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#E6E6E6;stroke-width:0.1;stroke-miterlimit:10;}
+	.st2{fill:#B3B3B3;}
+	.st3{fill:#E6E6E6;fill-opacity:0.6;stroke:#B3B3B3;stroke-width:0.1;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#B3B3B3;stroke-width:0.1;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#B3B3B3;stroke-width:0.1;stroke-miterlimit:10;}
+	.st6{opacity:0.2;}
+	.st7{fill:#ED1E79;}
+</style>
+<symbol  id="material_x5F_system_x5F_icon_x5F_border" viewBox="0 -48 48 48">
+	<polygon class="st0" points="0,0 0,-48 48,-48 48,0 	"/>
+</symbol>
+<g id="grid">
+	
+		<use xlink:href="#material_x5F_system_x5F_icon_x5F_border"  width="48" height="48" id="XMLID_7_" y="-48" transform="matrix(1 0 0 -1 -22 -13)" style="overflow:visible;"/>
+	<line id="XMLID_28_" class="st1" x1="0" y1="17" x2="18" y2="17"/>
+	<line id="XMLID_29_" class="st1" x1="0" y1="16" x2="18" y2="16"/>
+	<line id="XMLID_30_" class="st1" x1="0" y1="15" x2="18" y2="15"/>
+	<line id="XMLID_31_" class="st1" x1="0" y1="14" x2="18" y2="14"/>
+	<line id="XMLID_32_" class="st1" x1="0" y1="13" x2="18" y2="13"/>
+	<line id="XMLID_33_" class="st1" x1="0" y1="12" x2="18" y2="12"/>
+	<line id="XMLID_34_" class="st1" x1="0" y1="11" x2="18" y2="11"/>
+	<line id="XMLID_35_" class="st1" x1="0" y1="10" x2="18" y2="10"/>
+	<line id="XMLID_36_" class="st1" x1="0" y1="9" x2="18" y2="9"/>
+	<line id="XMLID_37_" class="st1" x1="0" y1="8" x2="18" y2="8"/>
+	<line id="XMLID_38_" class="st1" x1="0" y1="7" x2="18" y2="7"/>
+	<line id="XMLID_39_" class="st1" x1="0" y1="6" x2="18" y2="6"/>
+	<line id="XMLID_40_" class="st1" x1="0" y1="5" x2="18" y2="5"/>
+	<line id="XMLID_41_" class="st1" x1="0" y1="4" x2="18" y2="4"/>
+	<line id="XMLID_42_" class="st1" x1="0" y1="3" x2="18" y2="3"/>
+	<line id="XMLID_43_" class="st1" x1="0" y1="2" x2="18" y2="2"/>
+	<line id="XMLID_44_" class="st1" x1="0" y1="1" x2="18" y2="1"/>
+	<line id="XMLID_45_" class="st1" x1="17" y1="0" x2="17" y2="18"/>
+	<line id="XMLID_46_" class="st1" x1="16" y1="0" x2="16" y2="18"/>
+	<line id="XMLID_47_" class="st1" x1="15" y1="0" x2="15" y2="18"/>
+	<line id="XMLID_48_" class="st1" x1="14" y1="0" x2="14" y2="18"/>
+	<line id="XMLID_49_" class="st1" x1="13" y1="0" x2="13" y2="18"/>
+	<line id="XMLID_50_" class="st1" x1="12" y1="0" x2="12" y2="18"/>
+	<line id="XMLID_51_" class="st1" x1="11" y1="0" x2="11" y2="18"/>
+	<line id="XMLID_52_" class="st1" x1="10" y1="0" x2="10" y2="18"/>
+	<line id="XMLID_53_" class="st1" x1="9" y1="0" x2="9" y2="18"/>
+	<line id="XMLID_54_" class="st1" x1="8" y1="0" x2="8" y2="18"/>
+	<line id="XMLID_55_" class="st1" x1="7" y1="0" x2="7" y2="18"/>
+	<line id="XMLID_56_" class="st1" x1="6" y1="0" x2="6" y2="18"/>
+	<line id="XMLID_57_" class="st1" x1="5" y1="0" x2="5" y2="18"/>
+	<line id="XMLID_58_" class="st1" x1="4" y1="0" x2="4" y2="18"/>
+	<line id="XMLID_59_" class="st1" x1="3" y1="0" x2="3" y2="18"/>
+	<line id="XMLID_60_" class="st1" x1="2" y1="0" x2="2" y2="18"/>
+	<line id="XMLID_61_" class="st1" x1="1" y1="0" x2="1" y2="18"/>
+</g>
+<g id="border">
+	<g id="XMLID_27_">
+		<path id="XMLID_74_" class="st2" d="M17.9,0.1v17.8H0.1V0.1H17.9 M18,0H0v18h18V0L18,0z"/>
+	</g>
+</g>
+<g id="keyline_1_">
+	<circle id="XMLID_63_" class="st3" cx="9" cy="9" r="8"/>
+	<circle id="XMLID_79_" class="st4" cx="9" cy="9" r="3"/>
+	<path id="XMLID_64_" class="st5" d="M15,16H3c-0.6,0-1-0.4-1-1V3c0-0.6,0.4-1,1-1h12c0.6,0,1,0.4,1,1v12C16,15.6,15.6,16,15,16z"/>
+	<path id="XMLID_65_" class="st5" d="M16,15H2c-0.6,0-1-0.4-1-1V4c0-0.6,0.4-1,1-1h14c0.6,0,1,0.4,1,1v10C17,14.6,16.6,15,16,15z"/>
+	<path id="XMLID_66_" class="st5" d="M14,17H4c-0.6,0-1-0.4-1-1V2c0-0.6,0.4-1,1-1h10c0.6,0,1,0.4,1,1v14C15,16.6,14.6,17,14,17z"/>
+	<line id="XMLID_67_" class="st5" x1="0" y1="0" x2="18" y2="18"/>
+	<line id="XMLID_68_" class="st5" x1="0" y1="18" x2="18" y2="0"/>
+	<line id="XMLID_69_" class="st5" x1="0" y1="6" x2="18" y2="6"/>
+	<line id="XMLID_71_" class="st5" x1="0" y1="9" x2="18" y2="9"/>
+	<line id="XMLID_72_" class="st5" x1="0" y1="12" x2="18" y2="12"/>
+	<line id="XMLID_73_" class="st5" x1="6" y1="0" x2="6" y2="18"/>
+	<line id="XMLID_77_" class="st5" x1="9" y1="0" x2="9" y2="18"/>
+	<line id="XMLID_78_" class="st5" x1="12" y1="0" x2="12" y2="18"/>
+</g>
+<g id="gutter">
+	<g id="XMLID_26_">
+		<g id="XMLID_81_" class="st6">
+			<path id="XMLID_82_" class="st7" d="M17,1v16H1V1H17 M18,0H0v18h18V0L18,0z"/>
+		</g>
+	</g>
+</g>
+</svg>
