@@ -1,7 +1,7 @@
 # llamaicons v0.1
 ### General purpose free vector icons
 
-llamaicons is a free vector icons set, building around a strong style guideline (but looser than Google's Material Icons) created by [Teddy Necsoiu](https://twitter.com/teddynecsiou).
+llamaicons is a free vector icons set, building around a strong style guideline (but looser than Google's Material Icons) created by [Teddy Necsoiu](https://twitter.com/teddynecsoiu).
 
 
 ## Contributing
