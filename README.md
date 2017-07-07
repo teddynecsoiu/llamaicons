@@ -3,12 +3,13 @@
 
 llamaicons is a free vector icons set, building around a strong style guideline (but looser than Google's Material Icons) created by [Teddy Necsoiu](https://twitter.com/teddynecsoiu).
 
-
+<!--
 ## Contributing
 
 Contributions are very welcomed and quite encouraged. The basic idea behind the icon set is that one day it will become a giant repository of high quality icons, 4K ready and "pixel perfect", that any developer can use to create it's interface or graphics.
 
 Inside the [Guides](https://github.com/teddynecsoiu/llamaicons/tree/master/guides) folder you can find the three grids upon witch any icon is build. To start adding your own icons, fork this project and visit [Getting started](https://github.com/teddynecsoiu/llamaicons/wiki/Getting-started) wiki page for a intro on style guideline.
+-->
 
 ## Versioning
 
